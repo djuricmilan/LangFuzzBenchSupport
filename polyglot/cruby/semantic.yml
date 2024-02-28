@@ -1,0 +1,5 @@
+---
+InitFileDir: /home/milan/Documents/dev/epfl/master_thesis/PolyGlot/grammars/cruby/corpus/
+IsWeakType: true
+BasicTypes:
+  - X
